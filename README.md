@@ -16,7 +16,7 @@
  
  - 🌱 *Atualmente estou estudando Desenvolvimento Web Full-Stack na [Rocketseat](https://www.rocketseat.com.br/) 🚀*
 
- - 🌱 *Atualmente estou estudando Desenvolvimento Web Back-end na [Cubos Academy](https://cubos.academy/) 🚀*
+ - 🌱 *Atualmente estou estudando Desenvolvimento Back-end na [Cubos Academy](https://cubos.academy/) 🚀*
 
  - 🌱 *Atualmente estou estudando Ciência de dados com Python na [DIO](https://www.dio.me/) 🚀*
  
