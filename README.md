@@ -62,10 +62,10 @@ Here are some ideas to get you started:
 
 <div align="center">
  <a href="https://github.com/FernandoNandoz/nlwspacetime">
-  <img height="100%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FernandoNandoz&repo=nlwspacetime&theme=react&hide_border=true" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FernandoNandoz&repo=nlwspacetime&theme=react&hide_border=true" />
 </a>
 <a href="https://github.com/FernandoNandoz/be-the-hero">
-  <img height="100%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FernandoNandoz&repo=be-the-hero&theme=react&hide_border=true" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FernandoNandoz&repo=be-the-hero&theme=react&hide_border=true" />
 </a>
 </div>
 
