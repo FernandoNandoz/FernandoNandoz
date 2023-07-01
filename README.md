@@ -35,7 +35,6 @@ Here are some ideas to get you started:
  Essas são algumas das tecnologias que uso no dia a dia
 
 <div align="center">
- <img src="https://giphy.com/gifs/devrock-edr-escueladevrock-style-sheet-fsEaZldNC8A1PJ3mwp" width="100">
  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">      
  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">      
