@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <h1 align="center" >Bem-vindo!! É uma honra te-lo por aqui!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+
 
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
@@ -33,7 +32,6 @@
  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">      
  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">      
  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXFoZHFlaGxsc2I4aHJ1OTM5emVicjduOWMxNmRsbGdoNGJleXN6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kH6CqYiquZawmU1HI6/giphy.gif" width="100" heigth="100">
 </div>
 
 
