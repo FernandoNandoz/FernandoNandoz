@@ -4,6 +4,9 @@
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
 ## 💡 Sobre mim :
+
+<img align="right" src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" width="300"/>
+
  - 😁 *Me chamo Fernando Souza Damasceno e sou do Amazonas* 
 
  - 😄 *Sou formado em Analise e Desenvolvimento de Sistema* 
