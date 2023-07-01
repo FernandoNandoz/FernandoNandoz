@@ -2,37 +2,26 @@
 
 **FernandoNandoz/FernandoNandoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 <h1 align="center" >Fala Dev  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
 ## 💡 Sobre mim :
- - *Me chamo Fernando Souza Damasceno e sou do Amazonas* 
+ - 😁 *Me chamo Fernando Souza Damasceno e sou do Amazonas* 
 
- - *Sou formado em Analise e Desenvolvimento de Sistema* 
+ - 😄 *Sou formado em Analise e Desenvolvimento de Sistema* 
  
- - *Apaixonado por Desenvolvimento Web, em especial por Back End 💙* 
+ - 💜 *Apaixonado por Desenvolvimento Web, em especial por Back End 💙* 
  
- - *Estou buscando conquistar minha primeira vaga no mercado de trabalho.*
+ - 👯 *Estou buscando conquistar minha primeira vaga no mercado de trabalho.*
  
- - *Estudande de Desenvolvimento Web Full-Stack na [Rocketseat](https://www.rocketseat.com.br/) 🚀*
+ - 🌱 *Atualmente estou estudando Desenvolvimento Web Full-Stack na [Rocketseat](https://www.rocketseat.com.br/) 🚀*
 
- - *Estudande de Desenvolvimento Web Back-end na [Cubos Academy](https://cubos.academy/) 🚀*
+ - 🌱 *Atualmente estou estudando Desenvolvimento Web Back-end na [Cubos Academy](https://cubos.academy/) 🚀*
 
- - *Estudande de Ciência de dados com Python na [DIO](https://www.dio.me/) 🚀*
+ - 🌱 *Atualmente estou estudando Ciência de dados com Python na [DIO](https://www.dio.me/) 🚀*
  
- - *Amante da tecnologia, programação e de compartilhar conhecimento* 
+ - 💬 *Amante da tecnologia, programação e de compartilhar conhecimento* 
 
 
 ## 🔮 Minha Stack
@@ -62,10 +51,10 @@ Here are some ideas to get you started:
 
 <div align="center">
  <a href="https://github.com/FernandoNandoz/nlwspacetime">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FernandoNandoz&repo=nlwspacetime&theme=react&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FernandoNandoz&repo=nlwspacetime&theme=react&hide_border=true" />
 </a>
 <a href="https://github.com/FernandoNandoz/be-the-hero">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FernandoNandoz&repo=be-the-hero&theme=react&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FernandoNandoz&repo=be-the-hero&theme=react&hide_border=true" />
 </a>
 </div>
 
