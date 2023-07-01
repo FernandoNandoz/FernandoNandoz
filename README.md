@@ -68,4 +68,4 @@ Você pode me encontrar em qualquer uma das minhas redes sociais abaixo!
  
 #
  
-![snake animation](https://github.com/FernandoNandoz/FernandoNandoz/blob/output/github-contribution-grid-snake2.svg)
+<p align="center">Feito com 💜 <strong>Fernando Damasceno :wave: </p>
