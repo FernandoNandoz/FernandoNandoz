@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ## 📈 Estatísticas
 
 <div align="center">
-  <a href="https://github.com/Ricmaloy">
+  <a href="https://github.com/FernandoNandoz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoNandoz&layout=compact&langs_count=7&theme=react&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoNandoz&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
 </div>
@@ -58,10 +58,10 @@ Here are some ideas to get you started:
 
 <div align="center">
  <a href="https://github.com/FernandoNandoz/nlwspacetime">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FernandoNandoz&repo=nlwspacetime&theme=react&hide_border=true" />
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=FernandoNandoz&repo=nlwspacetime&theme=react&hide_border=true" />
 </a>
 <a href="https://github.com/FernandoNandoz/be-the-hero">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FernandoNandoz&repo=be-the-hero&theme=react&hide_border=true" />
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=FernandoNandoz&repo=be-the-hero&theme=react&hide_border=true" />
 </a>
 </div>
 
