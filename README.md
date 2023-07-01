@@ -35,14 +35,14 @@ Here are some ideas to get you started:
  Essas são algumas das tecnologias que uso no dia a dia
 
 <div align="center">
- <iframe src="https://giphy.com/embed/XAxylRMCdpbEWUAvr8" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-js-edr-escueladevrock-XAxylRMCdpbEWUAvr8">via GIPHY</a></p>
- <iframe src="https://giphy.com/embed/fsEaZldNC8A1PJ3mwp" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-edr-escueladevrock-style-sheet-fsEaZldNC8A1PJ3mwp">via GIPHY</a></p>
+ <img src="https://giphy.com/embed/XAxylRMCdpbEWUAvr8" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/devrock-js-edr-escueladevrock-XAxylRMCdpbEWUAvr8">via GIPHY</a></p>
+ <img src="https://giphy.com/embed/fsEaZldNC8A1PJ3mwp" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/devrock-edr-escueladevrock-style-sheet-fsEaZldNC8A1PJ3mwp">via GIPHY</a></p>
  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
- <iframe src="https://giphy.com/embed/kdFc8fubgS31b8DsVu" width="428" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-node-nodejs-edr-kdFc8fubgS31b8DsVu">via GIPHY</a></p>
+ <img src="https://giphy.com/embed/kdFc8fubgS31b8DsVu" width="428" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/devrock-node-nodejs-edr-kdFc8fubgS31b8DsVu">via GIPHY</a></p>
  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">      
  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">      
  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">   
- <iframe src="https://giphy.com/embed/kH6CqYiquZawmU1HI6" width="480" height="220" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-kH6CqYiquZawmU1HI6">via GIPHY</a></p>
+ <img src="https://giphy.com/embed/kH6CqYiquZawmU1HI6" width="480" height="220" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-kH6CqYiquZawmU1HI6">via GIPHY</a></p>
 </div>
 
 
