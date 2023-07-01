@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 ## 🔥 Meus repos favoritos
 
 <div align="center">
- <a height="150em" href="https://github.com/FernandoNandoz/nlwspacetime">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FernandoNandoz&repo=nlwspacetime&theme=react&hide_border=true" />
+ <a href="https://github.com/FernandoNandoz/nlwspacetime">
+  <img height="100%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FernandoNandoz&repo=nlwspacetime&theme=react&hide_border=true" />
 </a>
-<a height="150em" href="https://github.com/FernandoNandoz/be-the-hero">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FernandoNandoz&repo=be-the-hero&theme=react&hide_border=true" />
+<a href="https://github.com/FernandoNandoz/be-the-hero">
+  <img height="100%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FernandoNandoz&repo=be-the-hero&theme=react&hide_border=true" />
 </a>
 </div>
 
