@@ -1,4 +1,4 @@
-<h1 align="center" >Bem-vindo!! É uma honra te-lo por aqui!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center" >Bem-vindo!! Fica a vontade!! 😁  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
