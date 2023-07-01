@@ -27,6 +27,10 @@ Here are some ideas to get you started:
  - *Estou buscando conquistar minha primeira vaga no mercado de trabalho.*
  
  - *Estudande de Desenvolvimento Web Full-Stack na [Rocketseat](https://www.rocketseat.com.br/) 🚀*
+
+ - *Estudande de Desenvolvimento Web Back-end na [Cubos Academy](https://cubos.academy/) 🚀*
+
+ - *Estudande de Ciência de dados com Python na [DIO](https://www.dio.me/) 🚀*
  
  - *Amante da tecnologia, programação e de compartilhar conhecimento* 
 
@@ -57,11 +61,11 @@ Here are some ideas to get you started:
 ## 🔥 Meus repos favoritos
 
 <div align="center">
- <a href="https://github.com/FernandoNandoz/nlwspacetime">
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=FernandoNandoz&repo=nlwspacetime&theme=react&hide_border=true" />
+ <a height="150em" href="https://github.com/FernandoNandoz/nlwspacetime">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FernandoNandoz&repo=nlwspacetime&theme=react&hide_border=true" />
 </a>
-<a href="https://github.com/FernandoNandoz/be-the-hero">
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=FernandoNandoz&repo=be-the-hero&theme=react&hide_border=true" />
+<a height="150em" href="https://github.com/FernandoNandoz/be-the-hero">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FernandoNandoz&repo=be-the-hero&theme=react&hide_border=true" />
 </a>
 </div>
 
