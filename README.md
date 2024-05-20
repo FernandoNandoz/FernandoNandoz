@@ -16,7 +16,7 @@
  
  - 🌱 *Atualmente estou estudando Desenvolvimento Web Full-Stack na [Rocketseat](https://www.rocketseat.com.br/) 🚀*
 
- - 🌱 *Atualmente estou estudando Desenvolvimento .NET MAUI 🚀*
+ - 🌱 *Atualmente estou estudando Desenvolvimento .NET 🚀*
  
  - 💬 *Amante da tecnologia, programação e de compartilhar conhecimento* 
 
