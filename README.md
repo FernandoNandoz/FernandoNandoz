@@ -12,8 +12,6 @@
  
  - 💜 *Apaixonado por Desenvolvimento, atuo como Desenvolvedor Full-Stack 💙* 
  
- - 👯 *Estou buscando conquistar minha primeira vaga no mercado de trabalho.*
- 
  - 🌱 *Atualmente estou estudando Desenvolvimento Web Full-Stack na [Rocketseat](https://www.rocketseat.com.br/) 🚀*
 
  - 🌱 *Atualmente estou estudando Desenvolvimento .NET 🚀*
