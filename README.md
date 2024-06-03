@@ -11,8 +11,6 @@
  - 😄 *Sou formado em Analise e Desenvolvimento de Sistema* 
  
  - 💜 *Apaixonado por Desenvolvimento, atuo como Desenvolvedor Full-Stack 💙* 
- 
- - 🌱 *Atualmente estou estudando Desenvolvimento Web Full-Stack na [Rocketseat](https://www.rocketseat.com.br/) 🚀*
 
  - 🌱 *Atualmente estou estudando Desenvolvimento .NET 🚀*
  
