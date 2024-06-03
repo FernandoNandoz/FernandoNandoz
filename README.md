@@ -14,7 +14,9 @@
 
  - 🌱 *Atualmente estou estudando Desenvolvimento .NET 🚀*
  
- - 💬 *Amante da tecnologia, programação e de compartilhar conhecimento* 
+ - 💬 *Amante da tecnologia, programação e de compartilhar conhecimento*
+
+   
 
 
 ## 🔮 Minha Stack
