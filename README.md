@@ -4,7 +4,7 @@
 
 ## 💡 Sobre mim :
 
-<img align="right" src="https://github.com/FernandoNandoz/FernandoNandoz/blob/main/image/illustration2.png" width="280"/>
+<img align="right" src="https://github.com/FernandoNandoz/FernandoNandoz/blob/main/image/illustration2.png" width="240"/>
 
  - 😁 *Me chamo Fernando Souza Damasceno e sou do Amazonas* 
 
