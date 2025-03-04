@@ -10,7 +10,7 @@
 
  - 😄 *Sou formado em Analise e Desenvolvimento de Sistema* 
  
- - 💜 *Apaixonado por Desenvolvimento, atuo como Desenvolvedor Full-Stack 💙* 
+ - 💜 *Apaixonado por Desenvolvimento, atuo como Desenvolvedor e Professor 💙* 
 
  - 🌱 *Atualmente estou estudando Desenvolvimento .NET 🚀*
  
