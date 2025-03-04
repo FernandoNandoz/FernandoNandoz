@@ -60,4 +60,4 @@ Você pode me encontrar em qualquer uma das minhas redes sociais abaixo!
  
 #
  
-<p align="center">Feito com 💜 <strong>Fernando Damasceno :wave: </p>
+<p align="center"> :wave: </p>
